@@ -1,0 +1,8 @@
+﻿@model IEnumerable<ECommerMVC.ViewModels.HangHoaViewModel>
+@{
+    ViewData["Title"] = "Search";
+    Layout = "_DanhSachHangHoa";
+}
+
+<h1>Search</h1>
+@await Html.PartialAsync("ProductItem", Model)

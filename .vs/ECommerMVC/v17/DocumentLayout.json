@@ -1,0 +1,512 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\shared\\_layoutcustoms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\shared\\_layoutcustoms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\cart\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\cart\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\viewmodels\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\viewmodels\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\helpers\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\helpers\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|e:\\l\u1EADp tr\u00ECnh asp.net\\ecommermvc\\ecommermvc\\services\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49033542-68C0-4F1B-8DC9-E3C01E63A835}|ECommerMVC\\ECommerMVC.csproj|solutionrelative:ecommermvc\\services\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:52:07.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:50:36.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutCustoms.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_LayoutCustoms.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Shared\\_LayoutCustoms.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_LayoutCustoms.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Shared\\_LayoutCustoms.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAADgvz4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:30:22.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_DanhSachHangHoa.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:33:00.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "ECommerMVC\\ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "ECommerMVC\\ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:50:13.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ECommerMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ECommerMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:50:02.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:30:24.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:47:26.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:47:27.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ECommerMVC\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ECommerMVC\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAswKEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:36:19.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ECommerMVC\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ECommerMVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T03:47:47.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\HangHoas\\Edit.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\HangHoas\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:49:11.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\HangHoas\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\HangHoas\\Index.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\HangHoas\\Index.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\HangHoas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:49:10.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "ECommerMVC\\Controllers\\HangHoasController.cs",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "ECommerMVC\\Controllers\\HangHoasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:48:44.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "ECommerMVC\\Controllers\\HangHoaController.cs",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "ECommerMVC\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:48:43.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerMVC\\appsettings.json",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\appsettings.json",
+              "RelativeToolTip": "ECommerMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T13:33:31.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:48:08.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_TimKiemPanel.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:48:05.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:47:38.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:47:37.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerMVC\\Program.cs",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Program.cs",
+              "RelativeToolTip": "ECommerMVC\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:47:35.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAAHQAAAAAAAAAAADgv38AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:42:47.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AQIAAKgAAAAAAAAAAADgv7QAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T03:38:28.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Cart\\Success.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Cart\\Success.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Cart\\Success.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Cart\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T15:52:23.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Services\\VnPayService.cs",
+              "RelativeDocumentMoniker": "ECommerMVC\\Services\\VnPayService.cs",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Services\\VnPayService.cs",
+              "RelativeToolTip": "ECommerMVC\\Services\\VnPayService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAlwEMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:30:57.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentFail.cshtml",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Cart\\PaymentFail.cshtml",
+              "RelativeDocumentMoniker": "ECommerMVC\\Views\\Cart\\PaymentFail.cshtml",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Views\\Cart\\PaymentFail.cshtml",
+              "RelativeToolTip": "ECommerMVC\\Views\\Cart\\PaymentFail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T15:55:43.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Services\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "ECommerMVC\\Services\\IVnPayService.cs",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Services\\IVnPayService.cs",
+              "RelativeToolTip": "ECommerMVC\\Services\\IVnPayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:20:39.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Helpers\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "ECommerMVC\\Helpers\\VnPayLibrary.cs",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\Helpers\\VnPayLibrary.cs",
+              "RelativeToolTip": "ECommerMVC\\Helpers\\VnPayLibrary.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAYwKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:04:03.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VnPaymentResponseModel.cs",
+              "DocumentMoniker": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\ViewModels\\VnPaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "ECommerMVC\\ViewModels\\VnPaymentResponseModel.cs",
+              "ToolTip": "E:\\l\u1EADp tr\u00ECnh ASP.NET\\ECommerMVC\\ECommerMVC\\ViewModels\\VnPaymentResponseModel.cs",
+              "RelativeToolTip": "ECommerMVC\\ViewModels\\VnPaymentResponseModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:06:28.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
